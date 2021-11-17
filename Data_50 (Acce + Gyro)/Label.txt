@@ -1,0 +1,10 @@
+P1 - Buenos dias
+P2 - Buenas tardes
+P3 - Buenas noches
+P4 - Como te sientes CTS
+P5 - Encender, iluminar
+P6 - Activar, Activo(a), Conectar 
+P7 - ¿Qué hora es?
+P8 - ¿Cómo llego?, dirección
+P9 - Llamarse, nombre; tu
+P10 - ¿Cuantos años tienes?
